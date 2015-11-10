@@ -193,7 +193,7 @@
     <Compile Include="Assets\NGUI\Scripts\UI\UITexture.cs" />
     <Compile Include="Assets\NGUI\Scripts\UI\UITooltip.cs" />
     <Compile Include="Assets\NGUI\Scripts\UI\UIViewport.cs" />
-    <Compile Include="Assets\Scripts\Spate\SObject.cs" />
+    <Compile Include="Assets\Scripts\Spate\Eobject.cs" />
     <Compile Include="Assets\Scripts\Spate\View.cs" />
   </ItemGroup>
   <ItemGroup>
